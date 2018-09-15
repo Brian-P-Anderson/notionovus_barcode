@@ -2,7 +2,7 @@
 /*
 Plugin Name: notionovus_barcode
 Contributors: @notionovus
-Plugin URI: notionovus.com/plugin/barcode
+Plugin URI: bit.ly/2p954VL
 Description: This plugin puts barcodes on the page
 Author: Brian Anderson
 Version: 0.1

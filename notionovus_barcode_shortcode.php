@@ -8,7 +8,7 @@ Author: Brian Anderson
 Version: 0.1
 Author URI: notionovus.com
 Donate link: https://www.rotary.org/give
-Tags: barcode, Code 128, Code 39
+Tags: barcode, Code 128B
 Requires at least: 4.9
 Tested up to: 4.9
 Stable tag: 4.9
